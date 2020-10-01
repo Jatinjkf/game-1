@@ -1,4 +1,4 @@
-# game(逻辑)
+# Game(逻辑)
 [![Build Status](https://travis-ci.org/gonet2/game.svg?branch=master)](https://travis-ci.org/gonet2/game)
 
 ## 设计理念
